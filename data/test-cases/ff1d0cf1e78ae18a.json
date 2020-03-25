@@ -1,0 +1,62 @@
+{
+  "uid" : "ff1d0cf1e78ae18a",
+  "name" : "C3",
+  "fullName" : "what.C3",
+  "historyId" : "510cd310d390705dff18c3cba2c32e22",
+  "time" : {
+    "start" : 1584701772295,
+    "stop" : 1584701772518,
+    "duration" : 223
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C3"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "124bf42204118385",
+      "status" : "passed",
+      "time" : {
+        "start" : 1584701459630,
+        "stop" : 1584701459844,
+        "duration" : 214
+      }
+    }, {
+      "uid" : "695ac7f98d553ede",
+      "status" : "failed",
+      "statusDetails" : "TypeError: callback is not a function",
+      "time" : {
+        "start" : 1584700729107,
+        "stop" : 1584700729316,
+        "duration" : 209
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff1d0cf1e78ae18a.json",
+  "parameterValues" : [ ]
+}

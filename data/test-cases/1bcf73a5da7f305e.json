@@ -1,0 +1,45 @@
+{
+  "uid" : "1bcf73a5da7f305e",
+  "name" : "C2",
+  "fullName" : "what.C2",
+  "historyId" : "6deae178d6f843bddeddf9fbe4505feb",
+  "time" : {
+    "start" : 1584701459409,
+    "stop" : 1584701459629,
+    "duration" : 220
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Failed: \"qqq\"",
+  "statusTrace" : "Error: \n                    at Env.it (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:91:24)\n                    at it (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:93:21)\n                    at Suite.test (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/specs/this___.test.js:17:2)\n                    at addSpecsToSuite (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/Env.js:496:51)\n                    at Env.describe (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/Env.js:466:11)\n                    at Env.<anonymous> (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/lib/jest.test.failure.js:57:7)\n                    at apply (/Users/brbrr/Developer/a8c/jetpack/node_modules/lodash/lodash.js:476:27)\n                    at Env.wrapper [as describe] (/Users/brbrr/Developer/a8c/jetpack/node_modules/lodash/lodash.js:5317:16)\n                    at describe (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:81:18)\n                    at Object.describe (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/specs/this___.test.js:6:1)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C2"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bcf73a5da7f305e.json",
+  "parameterValues" : [ ]
+}

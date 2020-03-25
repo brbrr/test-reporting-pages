@@ -1,0 +1,43 @@
+{
+  "uid" : "a205f7dd57a19ec7",
+  "name" : "C4",
+  "fullName" : "what.C4",
+  "historyId" : "23cb36b0eea4857e54171a0e564cb306",
+  "time" : {
+    "start" : 1584701459845,
+    "stop" : 1584701460058,
+    "duration" : 213
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C4"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a205f7dd57a19ec7.json",
+  "parameterValues" : [ ]
+}

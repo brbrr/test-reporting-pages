@@ -1,0 +1,43 @@
+{
+  "uid" : "ab5c10fe1393765a",
+  "name" : "C5",
+  "fullName" : "what.C5",
+  "historyId" : "95f4040e167e98388d3aeb14e74b51de",
+  "time" : {
+    "start" : 1584701460059,
+    "stop" : 1584701460268,
+    "duration" : 209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C5"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab5c10fe1393765a.json",
+  "parameterValues" : [ ]
+}

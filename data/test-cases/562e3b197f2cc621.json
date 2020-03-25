@@ -1,0 +1,69 @@
+{
+  "uid" : "562e3b197f2cc621",
+  "name" : "C2",
+  "fullName" : "what.C2",
+  "historyId" : "6deae178d6f843bddeddf9fbe4505feb",
+  "time" : {
+    "start" : 1584701772075,
+    "stop" : 1584701772293,
+    "duration" : 218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Failed: \"qqq\"",
+  "statusTrace" : "Error: \n                    at Env.it (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:91:24)\n                    at it (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:93:21)\n                    at Suite.test (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/specs/this___.test.js:17:2)\n                    at addSpecsToSuite (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/Env.js:496:51)\n                    at Env.describe (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/Env.js:466:11)\n                    at Env.<anonymous> (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/lib/jest.test.failure.js:57:7)\n                    at apply (/Users/brbrr/Developer/a8c/jetpack/node_modules/lodash/lodash.js:476:27)\n                    at Env.wrapper [as describe] (/Users/brbrr/Developer/a8c/jetpack/node_modules/lodash/lodash.js:5317:16)\n                    at describe (/Users/brbrr/Developer/a8c/jetpack/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:81:18)\n                    at Object.describe (/Users/brbrr/Developer/a8c/jetpack/tests/e2e/specs/this___.test.js:6:1)",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C2"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1bcf73a5da7f305e",
+      "status" : "failed",
+      "statusDetails" : "Error: Failed: \"qqq\"",
+      "time" : {
+        "start" : 1584701459409,
+        "stop" : 1584701459629,
+        "duration" : 220
+      }
+    }, {
+      "uid" : "a9111d6a275f92b9",
+      "status" : "failed",
+      "statusDetails" : "TypeError: callback is not a function",
+      "time" : {
+        "start" : 1584700728891,
+        "stop" : 1584700729103,
+        "duration" : 212
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "562e3b197f2cc621.json",
+  "parameterValues" : [ ]
+}

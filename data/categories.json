@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Failed: \"qqq\"",
+      "children" : [ {
+        "name" : "C2",
+        "uid" : "562e3b197f2cc621",
+        "parentUid" : "6cd11345a89f3b1cb07a98fbf279d12f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1584701772075,
+          "stop" : 1584701772293,
+          "duration" : 218
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6cd11345a89f3b1cb07a98fbf279d12f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

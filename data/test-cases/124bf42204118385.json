@@ -1,0 +1,43 @@
+{
+  "uid" : "124bf42204118385",
+  "name" : "C3",
+  "fullName" : "what.C3",
+  "historyId" : "510cd310d390705dff18c3cba2c32e22",
+  "time" : {
+    "start" : 1584701459630,
+    "stop" : 1584701459844,
+    "duration" : 214
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "what"
+  }, {
+    "name" : "testClass",
+    "value" : "what"
+  }, {
+    "name" : "testMethod",
+    "value" : "C3"
+  }, {
+    "name" : "package",
+    "value" : "what"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "124bf42204118385.json",
+  "parameterValues" : [ ]
+}
